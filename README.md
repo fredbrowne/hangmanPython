@@ -7,7 +7,7 @@ Easy - Unlimited Attempts. Have fun and count how long it took for you to find t
 
 Hard - 3 Strikes and you are Out! Only 3 attempts! Good Luck!
 
-The words are retrieved randomly through words.txt (taken from https://github.com/Xethron/Hangman/blob/master/words.txt)
+The words are retrieved randomly through words.txt 
 
 ## Usage
 
